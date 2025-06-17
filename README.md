@@ -75,7 +75,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=buddhika4u&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" width="95%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika4u&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" width="95%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=buddhika4u&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" width="95%" />
     </td>
   </tr>
 </table>
